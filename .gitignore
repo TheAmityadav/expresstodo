@@ -1,0 +1,6 @@
+# Node modules
+node_modules/
+
+# Other files you might want to ignore
+.DS_Store
+.env
